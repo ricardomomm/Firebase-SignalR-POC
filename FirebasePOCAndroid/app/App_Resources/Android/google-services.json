@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "36240025034",
+    "firebase_url": "https://fir-poc-fe6af.firebaseio.com",
+    "project_id": "fir-poc-fe6af",
+    "storage_bucket": "fir-poc-fe6af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36240025034:android:9104b5d8c3431146",
+        "android_client_info": {
+          "package_name": "br.com.hbsis.firebasePOC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36240025034-uml3kof50fsdtdmjkllvd9c0al70gqij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHFahJxZRE1Uqxm-z4YPfFqYPtzqUIVEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

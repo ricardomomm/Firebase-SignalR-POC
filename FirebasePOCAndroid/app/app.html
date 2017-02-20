@@ -1,0 +1,7 @@
+<ActionBar title="Firebase POC" class="action-bar"></ActionBar>
+    <StackLayout class="card">
+        <Label class="h3" [text]="'Mensagem: '"></Label>
+        <TextField hint="Mensagem para o operador" class="m-t-10 input input-border" [(ngModel)]="mensagem"></TextField>
+        <Button [text]="'Enviar'" class="btn btn-primary" (tap)="enviarMensagem()"></Button>
+        
+    </StackLayout>

@@ -1,0 +1,8 @@
+{
+  "main": "main.js",
+  "name": "nativescript-template-ng-tutorial",
+  "version": "1.0.0",
+  "nativescript": {
+    "id": "br.com.hbsis.firebasePOC"
+  }
+}
